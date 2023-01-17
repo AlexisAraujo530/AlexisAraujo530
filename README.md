@@ -3,7 +3,7 @@
 
 
 - 
--### 💬Mis Skills: 
+### 💬Mis Skills: 
 - HTML, CSS, Javascript, React.js, Redux, Node.js, Express, Sequelize, PostgreSQL
 - 
 - 📫 Mis Contactos: 
@@ -11,11 +11,11 @@
 - [Linkedin](https://www.linkedin.com/in/alexis-araujo-developer/)
 - [whatsapp](https://wa.me/543412207065)
 
--###⚡Mis Proyectos:
+###⚡Mis Proyectos:
 
 - [BooKing](https://deploy-pf.vercel.app) (Team: [arielniscola](https://github.com/arielniscola) - [Thundeck](https://github.com/Thundeck) - [maxiacunia](https://github.com/maxiacunia) - [maestrejorge](https://github.com/maestrejorge) - [braaidg](https://github.com/braaidg))
 
--###Sobre mi:
+###Sobre mi:
 -📢 Teniendo un empleo estable y sólido, decidí realizar un cambio en mi vida.
 Busqué algo en lo que pudiera destacarme, por mi rapidez en el aprendizaje, mis conocimientos previos y responsabilidad.
 Así, inicié la carrera de programador, la cual me me hace sentir cómodo, entusiasmado y con muchas ganas de seguir creciendo en éste nuevo camino. 
