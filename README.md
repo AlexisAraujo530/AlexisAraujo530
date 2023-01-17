@@ -14,6 +14,7 @@
 ### ⚡Mis Proyectos:
 
 - [BooKing](https://deploy-pf.vercel.app) (Team: [arielniscola](https://github.com/arielniscola) - [Thundeck](https://github.com/Thundeck) - [maxiacunia](https://github.com/maxiacunia) - [maestrejorge](https://github.com/maestrejorge) - [braaidg](https://github.com/braaidg))
+- [Mi Repositorio](https://github.com/AlexisAraujo530?tab=repositories)
 
 ### Sobre mi:
 -📢 Teniendo un empleo estable y sólido, decidí realizar un cambio en mi vida.
