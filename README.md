@@ -1,15 +1,16 @@
-### Hi there 👋
+### Hola, Soy Alexis! 👋
 
 
-- 🔭 I’m currently working on personal proyects
+
 - 
-- 💬 Ask me about HTML, CSS, Javascript, React.js, Redux, Node.js, Express, Sequelize, PostgreSQL
-📫 How to reach me: 
+- 💬Mis Skills: HTML, CSS, Javascript, React.js, Redux, Node.js, Express, Sequelize, PostgreSQL
+- 
+- 📫 Mis Contactos: 
 - [Email](mailto:alexisaraujo530@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/alexis-araujo-developer/)
 - [whatsapp](https://wa.me/543412207065)
 
-
+-Mis Proyectos:
 
 - [BooKing](https://deploy-pf.vercel.app) (Team: [arielniscola](https://github.com/arielniscola) - [Thundeck](https://github.com/Thundeck) - [maxiacunia](https://github.com/maxiacunia) - [maestrejorge](https://github.com/maestrejorge) - [braaidg](https://github.com/braaidg))
 
