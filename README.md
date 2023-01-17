@@ -2,10 +2,10 @@
 
 
 
-- 
+
 ### 💬Mis Skills: 
 - HTML, CSS, Javascript, React.js, Redux, Node.js, Express, Sequelize, PostgreSQL
-- 
+ 
 ### 📫 Mis Contactos: 
 - [Email](mailto:alexisaraujo530@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/alexis-araujo-developer/)
